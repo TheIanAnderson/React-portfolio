@@ -5,22 +5,14 @@ import { Link, useLocation } from 'react-router-dom';
 function NavTabs() {
   const currentPage = useLocation().pathname;
   let homePageTitle = "About Me"
-  if(currentPage === "/React-portfolio"){
-    homePageTitle = " .      .      . "
-  }
+
   let portfolioPageTitle = "Portfolio"
-  if(currentPage === "/React-portfolio/Portfolio"){
-    portfolioPageTitle = "    .    .    .    "
-  }
+
   let resumePageTitle = "Resume"
-  if(currentPage === "/React-portfolio/Resume"){
-    resumePageTitle = "    .    .    .    "
-  }
+
 
   let contactPageTitle = "Contact"
-  if(currentPage === "/React-portfolio/Contact"){
-    contactPageTitle = "     .       .       .     "
-  }
+
   return (
     <ul className="nav nav-tabs bg-dark">
       <li className="nav-item">

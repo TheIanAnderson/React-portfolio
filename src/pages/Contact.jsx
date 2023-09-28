@@ -23,6 +23,7 @@ export default function Contact() {
 
   return (
     <div className="col-6">
+      <br />
       <h1>Contact Page</h1>
       <p>Integer cursus bibendum sem non pretium...</p>
 
