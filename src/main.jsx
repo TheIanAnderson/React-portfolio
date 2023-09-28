@@ -13,7 +13,7 @@ import Blog from './pages/Resume';
 // Define the accessible routes, and which components respond to which URL
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/React-portfolio',
     element: <App />,
     errorElement: <Error />,
     children: [
@@ -22,15 +22,15 @@ const router = createBrowserRouter([
         element: <Home />,
       },
       {
-        path: '/Portfolio',
+        path: '/React-portfolio/Portfolio',
         element: <About />,
       },
       {
-        path: '/Contact',
+        path: '/React-portfolio/Contact',
         element: <Contact />,
       },
       {
-        path: '/Resume',
+        path: '/React-portfolio/Resume',
         element: <Blog />,
       },
     ],

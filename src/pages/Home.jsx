@@ -10,11 +10,11 @@ export default function Home() {
         Hello everyone, welcome to my portfolio website.
       </h5>
       <div className="row">
-      <p class="col-md-8">
+      <p className="col-md-8">
         I am a University of Austin Full-Stack Web Development graduate 
         ready to jump on board with a team that could benifit from the skill-sets 
         I bring to the table. Enjoy parusing through my portfolio website taking note
-        of the array of projects, the contact page, and more
+        of the array of projects in my portfolio, the contact page, and more!
       </p>
       <div className="col-md-4">
           <img
