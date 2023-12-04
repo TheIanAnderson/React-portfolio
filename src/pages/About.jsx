@@ -10,19 +10,7 @@ export default function Projects() {
         <div className="col-md-6">
           <h1>Movie Poster and Trailer Generator</h1>
           <p>
-            Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-            Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-            dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-            sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-            sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-            vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-            libero. Class aptent taciti sociosqu ad litora torquent per conubia
-            nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-            lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-            Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-            in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-            bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-            est ligula suscipit velit, sed bibendum turpis dui in sapien.
+          In this project, my teammates and I were challenged to create multiple API calls using jQuery and a few older tools 0to develop a useful web app. We encountered several issues when calling and populating accurate information, as well as ensuring that the data loaded quickly. One of my favorite aspects was how we were able to utilize YouTube's API and some CSS packages to create a carousel of movie trailers based on users' searches at the bottom!
           </p>
         </div>
         <div className="col-md-6">
@@ -45,19 +33,10 @@ export default function Projects() {
         <div className="col-md-6">
           <h1>Weather App</h1>
           <p>
-            Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-            Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-            dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-            sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-            sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-            vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-            libero. Class aptent taciti sociosqu ad litora torquent per conubia
-            nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-            lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-            Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-            in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-            bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-            est ligula suscipit velit, sed bibendum turpis dui in sapien.
+
+          In the development of this weather app, I set out to create a straightforward yet efficient tool that retrieves weather information based on user searches. The app boasts features such as saving past searches, providing comprehensive data including humidity, temperature, and wind speeds, and delivering a 5-day weather forecast.
+
+Among the most gratifying aspects of this project were the learning experiences it offered. Navigating through errors, honing my debugging skills, and applying newly acquired JavaScript logic during the creation process were particularly enjoyable and contributed significantly to my skill development.
           </p>
         </div>
         <div className="col-md-6">
@@ -80,19 +59,7 @@ export default function Projects() {
         <div className="col-md-6">
           <h1>Password Generator</h1>
           <p>
-            Donec a volutpat quam. Curabitur nec varius justo, sed rutrum ligula.
-            Curabitur pellentesque turpis sit amet eros iaculis, a mollis arcu
-            dictum. Ut vel ante eget massa ornare placerat. Etiam nisl orci, finibus
-            sodales volutpat et, hendrerit ut dolor. Suspendisse porta dictum nunc,
-            sed pretium risus rutrum eget. Nam consequat, ligula in faucibus
-            vestibulum, nisi justo laoreet risus, luctus luctus mi lacus sit amet
-            libero. Class aptent taciti sociosqu ad litora torquent per conubia
-            nostra, per inceptos himenaeos. Mauris pretium condimentum tellus eget
-            lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
-            Donec placerat accumsan mi, ut congue neque placerat eu. Donec nec ipsum
-            in velit pellentesque vehicula sit amet at augue. Maecenas aliquam
-            bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
-            est ligula suscipit velit, sed bibendum turpis dui in sapien.
+            This is another project completed in school to learn about JavaScript logic, as well as DOM features like alerts. In this site you'll be able to choose from a list of parameters to have it create a password length, capitol and lowercase letters, numbers and special characters.
           </p>
         </div>
         <br />
